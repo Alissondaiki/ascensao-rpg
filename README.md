@@ -1,4 +1,4 @@
-# Ascensão — RPG Pessoal (v1.0)
+# Ascensão — RPG Pessoal (2.0 · Etapa 1)
 
 Um mini-RPG de evolução pessoal feito com HTML, CSS e JavaScript puro. Sem conta, backend, API ou assinatura.
 
@@ -37,3 +37,10 @@ O GitHub Pages hospeda sites estáticos; não é necessário pagar por servidor 
 
 ## Personalização futura
 É possível adicionar inventário, árvore de habilidades, objetivos mensais, avatares e notificações. Para manter o custo em R$ 0, evitar serviços pagos e APIs com cobrança.
+
+
+## Ascensão 2.0 — Etapa 1
+- Atualização visual para azul, preto e azul-gelo.
+- Ícone SVG vetorial novo.
+- Cache PWA atualizado para `ascensao-static-v2`.
+- A lógica de missões, XP, atributos e conquistas foi preservada nesta etapa.
